@@ -20,5 +20,4 @@ app.route("/:userID/:preferences/:sub_loc/:g_loc")
         res.send(recommendations)
     })
 
-app.listen(process.env.PORT || 3000, () => {
-})
+app.listen(process.env.PORT || 3000, () => { })

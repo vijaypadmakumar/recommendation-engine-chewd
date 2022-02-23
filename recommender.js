@@ -43,6 +43,7 @@ const get_matching_item = (items) => {
 
 const get_item_image = (item) => {
     // confusion
+    return "image url"
 }
 
 const find_matches = (preferences, threshold, sub_loc, g_loc) => {
@@ -70,9 +71,10 @@ const find_matches = (preferences, threshold, sub_loc, g_loc) => {
 
                 const item = get_matching_item(local_data[restaurant_index][restaurant_name][0].items)
                 const img_url = get_item_image(item)
+                const id = restaurant_name + item + img_url
 
                 const data = {
-                    "_id": "",// hash all the following to create an id
+                    "_id": id.hashCode(),
                     "restaurantName": restaurant_name,
                     "name": item,
                     "img_url": img_url

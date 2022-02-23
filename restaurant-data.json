@@ -8,7 +8,7 @@
                             "Italian",
                             "Pizza",
                             "Dessert",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Gluten Free",
                             "Pasta"
                         ],
@@ -1285,7 +1285,7 @@
                             "Italian",
                             "Pizza",
                             "Dessert",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Gluten Free",
                             "Pasta"
                         ],
@@ -1741,7 +1741,7 @@
                             "Vegetarian",
                             "Noodles",
                             "Curry",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "6 Spiceal Street, St Martin's Square, Bullring, Birmingham, B54BW",
                         "items": [
@@ -1857,7 +1857,7 @@
                     {
                         "tags": [
                             "Italian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Gluten Free",
                             "Pasta"
                         ],
@@ -2002,7 +2002,7 @@
                         "tags": [
                             "Pizza",
                             "Italian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Alcohol"
                         ],
@@ -2073,7 +2073,7 @@
                         "tags": [
                             "Pizza",
                             "Italian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Alcohol"
                         ],
@@ -2386,7 +2386,7 @@
                             "Japanese",
                             "Sushi",
                             "Healthy",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Halal",
                             "Juices",
@@ -2501,7 +2501,7 @@
                             "Indian",
                             "Halal",
                             "Vegetarian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "South Indian"
                         ],
                         "address": "Orion Building, Navigation St, Birmingham, B54AX",
@@ -2740,7 +2740,7 @@
                             "Indian",
                             "Halal",
                             "Vegetarian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "South Indian"
                         ],
                         "address": "Orion Building, Navigation St, Birmingham, B54AX",
@@ -2992,7 +2992,7 @@
                             "Pizza",
                             "Dessert",
                             "American",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Gluten Free",
                             "Italian"
@@ -3076,7 +3076,7 @@
                             "Salads",
                             "Snacks",
                             "Wraps",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "98 Bull Street, Birmingham, B47AA",
                         "items": [
@@ -3189,7 +3189,7 @@
                             "Salads",
                             "Snacks",
                             "Wraps",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "98 Bull Street, Birmingham, B47AA",
                         "items": [
@@ -3293,7 +3293,7 @@
                         "tags": [
                             "Mexican",
                             "Burritos",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Salads",
                             "American",
                             "Vegetarian",
@@ -3543,7 +3543,7 @@
                             "Asian",
                             "Japanese",
                             "Ramen",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "98 New Street, Birmingham, B24HS",
                         "items": [
@@ -3903,7 +3903,7 @@
                             "Japanese",
                             "Sushi",
                             "Healthy",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Halal",
                             "Juices",
@@ -4019,7 +4019,7 @@
                             "Healthy",
                             "Sandwiches",
                             "Gluten Free",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Breakfast",
                             "Vegetarian",
                             "Acai"
@@ -4113,7 +4113,7 @@
                             "Asian",
                             "Curry",
                             "Healthy",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "Unit MK9 Grand Central, Stephensons Place, Birmingham, B24BQ",
                         "items": [
@@ -4305,7 +4305,7 @@
                             "Salads",
                             "Snacks",
                             "Wraps",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "98 Bull Street, Birmingham, B47AA",
                         "items": [
@@ -4409,7 +4409,7 @@
                         "tags": [
                             "Mexican",
                             "Burritos",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Salads",
                             "American",
                             "Vegetarian",
@@ -4657,7 +4657,7 @@
                         "tags": [
                             "Pizza",
                             "Italian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Alcohol"
                         ],
@@ -4730,7 +4730,7 @@
                             "Asian",
                             "Japanese",
                             "Ramen",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "98 New Street, Birmingham, B24HS",
                         "items": [
@@ -5141,7 +5141,7 @@
                         "tags": [
                             "Sushi",
                             "Asian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Japanese",
                             "Healthy",
@@ -5274,7 +5274,7 @@
                     {
                         "tags": [
                             "Dessert",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Bubble Tea",
                             "Taiwanese",
@@ -5494,7 +5494,7 @@
                             "Noodles",
                             "Asian",
                             "Gluten Free",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Healthy",
                             "Curry",
                             "Chinese",
@@ -5666,7 +5666,7 @@
                     {
                         "tags": [
                             "Dessert",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Bubble Tea",
                             "Taiwanese",
@@ -5765,7 +5765,7 @@
                             "Noodles",
                             "Asian",
                             "Gluten Free",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Healthy",
                             "Curry",
                             "Chinese",
@@ -5941,7 +5941,7 @@
                             "Noodles",
                             "Asian",
                             "Vegetarian",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "Unit 2B, Two Chamberlain Square, Birmingham, B33AX",
                         "items": [
@@ -6189,7 +6189,7 @@
                             "Japanese",
                             "Sushi",
                             "Healthy",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Halal",
                             "Juices",
@@ -6307,7 +6307,7 @@
                             "American",
                             "Burgers",
                             "Healthy",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "Unit 25, Birmingham New Street Station, Birmingham, B2 4QA, Birmingham, B24QA",
                         "items": [
@@ -6515,7 +6515,7 @@
                             "Healthy",
                             "Sandwiches",
                             "Gluten Free",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Breakfast",
                             "Vegetarian",
                             "Acai"
@@ -6609,7 +6609,7 @@
                             "Asian",
                             "Curry",
                             "Healthy",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "Unit MK9 Grand Central, Stephensons Place, Birmingham, B24BQ",
                         "items": [
@@ -6731,7 +6731,7 @@
                             "Breakfast",
                             "Sandwiches",
                             "Healthy",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian"
                         ],
                         "address": "22-24 Colmore Row, Birmingham, B32QD",
@@ -7000,7 +7000,7 @@
                             "Halal",
                             "Chicken",
                             "Healthy",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian"
                         ],
                         "address": "0 Smallbrook Queensway, Birmingham,,, Birmingham, B54LJ",
@@ -7248,7 +7248,7 @@
                             "Indian",
                             "Halal",
                             "Vegetarian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "South Indian"
                         ],
                         "address": "Orion Building, Navigation St, Birmingham, B54AX",
@@ -7374,7 +7374,7 @@
                     {
                         "tags": [
                             "Italian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Gluten Free",
                             "Pasta"
                         ],
@@ -7576,7 +7576,7 @@
                             "Halal",
                             "Noodles",
                             "Curry",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Chinese",
                             "Vietnamese"
                         ],
@@ -8750,7 +8750,7 @@
                             "Pizza",
                             "Dessert",
                             "American",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Gluten Free",
                             "Italian"
@@ -8828,7 +8828,7 @@
                             "Noodles",
                             "Asian",
                             "Vegetarian",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "Unit 2B, Two Chamberlain Square, Birmingham, B33AX",
                         "items": [
@@ -9008,7 +9008,7 @@
                         "tags": [
                             "Breakfast",
                             "Salads",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Kebab",
                             "Halal"
                         ],
@@ -9334,7 +9334,7 @@
                         "tags": [
                             "Pizza",
                             "Italian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Gluten Free",
                             "Pasta",
                             "Vegetarian"
@@ -9453,7 +9453,7 @@
                             "Asian",
                             "Chinese",
                             "Noodles",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Gluten Free",
                             "Thai",
@@ -9635,7 +9635,7 @@
                             "Ramen",
                             "Wraps",
                             "Thai",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian"
                         ],
                         "address": "Unit 3, Former Central fire station, Aston Uni, Birmingham, B47DA",
@@ -10947,7 +10947,7 @@
                             "Breakfast",
                             "Sandwiches",
                             "Healthy",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian"
                         ],
                         "address": "22-24 Colmore Row, Birmingham, B32QD",
@@ -11203,7 +11203,7 @@
                         "tags": [
                             "Sushi",
                             "Asian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Japanese",
                             "Healthy",
@@ -11342,7 +11342,7 @@
                             "Gluten Free",
                             "Halal",
                             "Alcohol",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "Unit 33 Grand Central, Birmingham, B24BF",
                         "items": [
@@ -11733,7 +11733,7 @@
                             "Gluten Free",
                             "Halal",
                             "Alcohol",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "Unit 33 Grand Central, Birmingham, B24BF",
                         "items": [
@@ -11805,7 +11805,7 @@
                         "tags": [
                             "Vegetarian",
                             "Gluten Free",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Pie",
                             "British"
                         ],
@@ -11881,7 +11881,7 @@
                             "Italian",
                             "Pizza",
                             "Gluten Free",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "18-19 Bennetts Hill, Birmingham UK,, Birmingham, B25QJ",
                         "items": [
@@ -13259,7 +13259,7 @@
                             "Halal",
                             "Dessert",
                             "Ice Cream",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian"
                         ],
                         "address": "60 Bishopsgate Street, Birmingham, B151DB",
@@ -13487,7 +13487,7 @@
                 "zizzi birmingham": [
                     {
                         "tags": [
-                            "Vegan Friendly",
+                            "Vegan",
                             "Gluten Free",
                             "Pizza",
                             "Italian",
@@ -14279,7 +14279,7 @@
                             "Pizza",
                             "Burgers",
                             "Pasta",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Gluten Free",
                             "Alcohol"
                         ],
@@ -14532,7 +14532,7 @@
                             "Healthy",
                             "Grill",
                             "Salads",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Chicken",
                             "Drinks"
                         ],
@@ -15512,7 +15512,7 @@
                         "tags": [
                             "Korean",
                             "Healthy",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Smoothie",
                             "Asian Fusion",
                             "Drinks",
@@ -15591,7 +15591,7 @@
                         "tags": [
                             "Korean",
                             "Healthy",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Smoothie",
                             "Asian Fusion",
                             "Drinks",
@@ -15668,7 +15668,7 @@
                 "subway moseley 36961": [
                     {
                         "tags": [
-                            "Vegan Friendly",
+                            "Vegan",
                             "Chicken",
                             "Sandwiches",
                             "American",
@@ -16161,7 +16161,7 @@
                             "Gluten Free",
                             "Ice Cream",
                             "Milkshakes",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Halal"
                         ],
                         "address": "185-187 Soho Road, Birmingham, B219SU",
@@ -16545,7 +16545,7 @@
                             "Gluten Free",
                             "Indian",
                             "Breakfast",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian"
                         ],
                         "address": "407 Park Road, Birmingham, B185SR",
@@ -17344,7 +17344,7 @@
                             "Gluten Free",
                             "Ice Cream",
                             "Milkshakes",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Halal"
                         ],
                         "address": "185-187 Soho Road, Birmingham, B219SU",
@@ -17668,7 +17668,7 @@
                             "Lebanese",
                             "Falafel",
                             "Halal",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian"
                         ],
                         "address": "83A High Street, Birmingham, B179NR",
@@ -17741,7 +17741,7 @@
                             "Burgers",
                             "Vegan",
                             "Vegetarian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Dessert"
                         ],
                         "address": "21 High Street, Harborne, Birmingham, B179NT",
@@ -17875,7 +17875,7 @@
                         "tags": [
                             "Thai",
                             "Curry",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Asian",
                             "Noodles",
@@ -18013,7 +18013,7 @@
                             "Lebanese",
                             "Falafel",
                             "Halal",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian"
                         ],
                         "address": "83A High Street, Birmingham, B179NR",
@@ -18266,7 +18266,7 @@
                             "Vegetarian",
                             "Wings",
                             "Noodles",
-                            "Vegan Friendly"
+                            "Vegan"
                         ],
                         "address": "16-18 Wrottesley Street, Birmingham, B54RT",
                         "items": [
@@ -19678,7 +19678,7 @@
                     {
                         "tags": [
                             "Indian",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Curry"
                         ],
@@ -20463,7 +20463,7 @@
                             "British",
                             "Dessert",
                             "Chicken",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Salads",
                             "Breakfast",
@@ -20499,7 +20499,7 @@
                             "Gluten Free",
                             "Healthy",
                             "Salads",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Breakfast"
                         ],
@@ -20587,7 +20587,7 @@
                             "British",
                             "Dessert",
                             "Chicken",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Salads",
                             "Breakfast",
@@ -20624,7 +20624,7 @@
                         "tags": [
                             "American",
                             "Sandwiches",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Chicken",
                             "Healthy",
                             "Vegetarian"
@@ -21070,7 +21070,7 @@
                             "British",
                             "Halal",
                             "Salads",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegan",
                             "Vegetarian",
                             "Shawarma",
@@ -21557,7 +21557,7 @@
                         "tags": [
                             "Sushi",
                             "Kosher",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Vegetarian",
                             "Salads",
                             "Gluten Free",
@@ -22429,7 +22429,7 @@
                             "Curry",
                             "Asian",
                             "Ramen",
-                            "Vegan Friendly",
+                            "Vegan",
                             "Japanese"
                         ],
                         "address": "Waters Edge, 66 Broad Street, Birmingham, B12HL",

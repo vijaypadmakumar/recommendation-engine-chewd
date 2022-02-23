@@ -1,0 +1,14 @@
+{
+  "name": "recommendation_engine",
+  "version": "1.0.0",
+  "description": "provides an api to get recommendations",
+  "main": "recommendation_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vijay padmakumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

@@ -21,5 +21,4 @@ app.route("/:userID/:preferences/:sub_loc/:g_loc")
     })
 
 app.listen(process.env.PORT || 3000, () => {
-    console.log(`Port : ${PORT}`)
 })

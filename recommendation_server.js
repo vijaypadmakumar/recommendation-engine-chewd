@@ -11,7 +11,7 @@ app.route("/:userID/:preferences/:sub_loc/:g_loc")
     .get((req, res) => {
         const user_preferences = {
             id: req.params.userID,
-            preferences: req.params.preferences.replace("[", "").replace("]", "").split(","),
+            preferences: req.params.preferences.replace("[", "").replace("]", "").replace("%20", "").split(","),
             sub_loc: req.params.sub_loc,
             g_loc: req.params.g_loc
         }

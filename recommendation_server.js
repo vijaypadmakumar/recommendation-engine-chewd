@@ -2,8 +2,6 @@ const express = require("express")
 const app = express()
 const main = require("./recommender")
 
-const PORT = process.env.PORT || 8080
-
 app.route("/")
     .get((req, res) => {
         res.send("hellooo")
@@ -22,6 +20,6 @@ app.route("/:userID/:preferences/:sub_loc/:g_loc")
         res.send(recommendations)
     })
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || 3000, () => {
     console.log(`Port : ${PORT}`)
 })
